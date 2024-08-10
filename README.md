@@ -16,3 +16,16 @@
   <img align="center" alt="Nelson-XML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg">
   <img align="center" alt="Nelson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
 </div>
+
+
+##
+
+
+<div> 
+  <a href="https://www.nelsonluismanuel.com" target="_blank"><img src="https://img.shields.io/badge/-My Website-%23335?style=for-the-badge&logo=N&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@NelsonLuisManuel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/nelson_luman" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://x.com/NLuisManuel" target="_blank"><img src="https://img.shields.io/badge/-Twitter-9146FF?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nelsonluismanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nelson-luis-manuel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
