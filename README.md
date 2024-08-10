@@ -11,7 +11,7 @@
          <li><tr>📝  M.Sc. thesis: Control design for a hybrid ac-dc microgrid.
          <li><tr>📈  Three (3) research papers as main author, with over 25 citations (h-index: 3) as of 01/07/24.
          <li><tr>🔎   Research interests: control systems engineering, power systems, power electronics, renewable energies, robotics.
-         <li><tr>🎯  Ph.D. and R&D electrical and electronics engineer.
+         <li><tr>🎯  I am looking for Ph.D. and R&D engineer positions.
     </ul>
   </div>
 </section>
