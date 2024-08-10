@@ -1,9 +1,14 @@
-##  I am Nelson Luis Manuel, thank you for visiting my github profile!
-
 <section id="introduction">
-  <h1 align="center">Hello👋 </h1>
+  <h1 align="center">Hello👋 thank you for visiting my github profile!</h1>
+     
+  <br>
+  <br>
+  
   <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=My+name+is+Nelson+Luis+Manuel+%F0%9F%98%80;Welcome+to+my+GitHub+profile!%F0%9F%94%94" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Hello!+I+am+Nelson+%F0%9F%98%84;Welcome+to+my+GitHub!"alt="Typing SVG" /></a>
+    
+  <br>
+    
   </div>
   <div align="center">
     <ul align="left" list-style="none">
@@ -15,11 +20,6 @@
     </ul>
   </div>
 </section>
-
-   <br>
-   <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelson-Luis-Manuel)](https://github.com/Nelson-Luis-Manuel/github-readme-stats)
 
    <br>
    <br>
