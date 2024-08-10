@@ -9,8 +9,8 @@
     <ul align="left" list-style="none">
          <li><tr>🎓  Master's degree in electrical and electronics engineering in 2022.
          <li><tr>📝  M.Sc. thesis: Control design for a hybrid ac-dc microgrid.
-         <li><tr>🔎  Three (3) research papers as main author, with over 25 citations (h-index: 3) as of 10/08/24.
-         <li><tr>❤   Research interests: control systems engineering, power systems, power electronics, renewable energies, robotics.
+         <li><tr>📈  Three (3) research papers as main author, with over 25 citations (h-index: 3) as of 10/08/24.
+         <li><tr>🔎   Research interests: control systems engineering, power systems, power electronics, renewable energies, robotics.
          <li><tr>🎯  Ph.D. and R&D electrical and electronics engineer.
     </ul>
   </div>
@@ -32,7 +32,7 @@
 
    <br>
    <br>
-   
+
 <section id="my_contacts">
    <h2 align="center">📫 How To Reach Me:</h3>
 <div align="center" style="display: inline_block"><br>
