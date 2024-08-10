@@ -20,7 +20,7 @@
    <br>
    
 <section id="programming_languages">
-<h2 align="center">💻 Programming Skills:</h3>
+<h2 align="center">💻 Programming Skills :</h3>
 <div <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Nelson-Matlab" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
   <img align="center" alt="Nelson-Python" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
@@ -36,7 +36,7 @@
    <br>
 
 <section id="my_contacts">
-   <h2 align="center">📫 Contacts:</h3>
+   <h2 align="center">📫 Contacts :</h3>
 <div align="center" style="display: inline_block"><br>
   <a href="https://www.nelsonluismanuel.com" target="_blank"><img src="https://img.shields.io/badge/-My Website-%23335?style=for-the-badge&logo=N&logoColor=white" target="_blank"></a>
   <a href = "mailto:nelsonluismanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
