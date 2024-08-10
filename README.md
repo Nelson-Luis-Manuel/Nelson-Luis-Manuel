@@ -10,9 +10,12 @@
 - ⚡ Fun fact: ...
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nelson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Nelson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Nelson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"">
   <img align="center" alt="Nelson-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Nelson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Nelson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Nelson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
+  
+ 
+ 
   
 </div>
