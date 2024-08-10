@@ -9,7 +9,7 @@
     <ul align="left" list-style="none">
          <li><tr>🎓  Master's degree in electrical and electronics engineering in 2022.
          <li><tr>📝  M.Sc. thesis: Control design for a hybrid ac-dc microgrid.
-         <li><tr>📈  Three (3) research papers as main author, with over 25 citations (h-index: 3) as of 10/08/24.
+         <li><tr>📈  Three (3) research papers as main author, with over 25 citations (h-index: 3) as of 01/07/24.
          <li><tr>🔎   Research interests: control systems engineering, power systems, power electronics, renewable energies, robotics.
          <li><tr>🎯  Ph.D. and R&D electrical and electronics engineer.
     </ul>
@@ -22,12 +22,12 @@
 <section id="programming_languages">
 <h2 align="center">Programming Skills:</h3>
 <div <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Nelson-Matlab" height="190" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Nelson-Python" height="190" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Nelson-Java" height="210" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Nelson-Matlab" height="190" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Nelson-Python" height="190" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Nelson-Java" height="210" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Nelson-Java" height="190" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg">
-  <img align="center" alt="Nelson-HTML" height="160" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Nelson-XML" height="200" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg">
+  <img align="center" alt="Nelson-HTML" height="140" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Nelson-XML" height="290" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg">
   
 </div>
 </section>
