@@ -36,7 +36,7 @@
    <br>
 
 <section id="my_contacts">
-   <h2 align="center">📫 Contacts :</h3>
+   <h2 align="center">📫 Contacts & Social Networks :</h3>
 <div align="center" style="display: inline_block"><br>
   <a href="https://www.nelsonluismanuel.com" target="_blank"><img src="https://img.shields.io/badge/-My Website-%23335?style=for-the-badge&logo=N&logoColor=white" target="_blank"></a>
   <a href = "mailto:nelsonluismanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
